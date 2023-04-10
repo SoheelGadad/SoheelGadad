@@ -1,7 +1,7 @@
 ## Hi there, I'm Soheel Gadad  👋 
  <br/>
  
- [![Soheel's GitHub Banner](./assets/GitHubHeader.png)]
+ [![Soheel's GitHub Banner](./assets/GitHubHeader.jpg)]
  <br/>
  
  ##  👨About Me:
