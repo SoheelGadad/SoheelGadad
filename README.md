@@ -1,6 +1,6 @@
 ## Hi there, I'm Soheel Gadad  👋 
  <br/>
-![Soheel's GitHub Banner](./assets/GitHubHeader.jpg)
+![Soheel's GitHub Banner](./assets/GitHubHeader1.jpg)
 
  <br/>
  
